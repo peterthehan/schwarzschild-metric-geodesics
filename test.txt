@@ -1,0 +1,16 @@
+		1	2	3	4	5	6
+
+mBlackHole	1	1	1	5	1	5
+mObject		1	1	1	1	1	8
+r0		50	5	10	35	5.75	45
+dr0		0	0	0	0	0.5	0
+phi0		Pi/4	Pi/4	Pi/4	Pi/4	Pi/4	Pi/4
+dphi0		0	0.15	0.0378	0.01405	0.05	0.0095
+steps		1000	1000	1000	1000	5000	1000
+
+1: radial infall
+2: elliptical
+3: circular
+4: capture
+5: capture (wide swing)
+6: star-shaped (for fun)
